@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Sanaver/flesh-betting.git/static/css/main.b7382d09.chunk.css",
+    "main.js": "/Sanaver/flesh-betting.git/static/js/main.0eee0fae.chunk.js",
+    "main.js.map": "/Sanaver/flesh-betting.git/static/js/main.0eee0fae.chunk.js.map",
+    "runtime-main.js": "/Sanaver/flesh-betting.git/static/js/runtime-main.d1fbc1d4.js",
+    "runtime-main.js.map": "/Sanaver/flesh-betting.git/static/js/runtime-main.d1fbc1d4.js.map",
+    "static/js/2.f7068179.chunk.js": "/Sanaver/flesh-betting.git/static/js/2.f7068179.chunk.js",
+    "static/js/2.f7068179.chunk.js.map": "/Sanaver/flesh-betting.git/static/js/2.f7068179.chunk.js.map",
+    "index.html": "/Sanaver/flesh-betting.git/index.html",
+    "static/css/main.b7382d09.chunk.css.map": "/Sanaver/flesh-betting.git/static/css/main.b7382d09.chunk.css.map",
+    "static/js/2.f7068179.chunk.js.LICENSE.txt": "/Sanaver/flesh-betting.git/static/js/2.f7068179.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Sanaver/flesh-betting.git/static/media/digital_world_map_hologram_blue_background.1a7e4de9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1fbc1d4.js",
+    "static/js/2.f7068179.chunk.js",
+    "static/css/main.b7382d09.chunk.css",
+    "static/js/main.0eee0fae.chunk.js"
+  ]
+}
